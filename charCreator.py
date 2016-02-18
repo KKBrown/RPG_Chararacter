@@ -198,7 +198,6 @@ while choice != "0":
         print("\nHere are all of your characters you can currently edit:\n")
         for key in chars:
             print(key)
-            #print(chars.get(key), "\n")
         editchar = input("Which character would you like to edit?: ")
         editcharCap = editchar.capitalize()
         if editcharCap in chars:
