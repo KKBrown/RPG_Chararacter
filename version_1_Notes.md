@@ -1,11 +1,10 @@
 # RPG_Chararacter
 Character Creator program for a role-playing game written in python
 
-
 # Based on and expanded from Charles Wade's original code from August of 2013
 Source - https://github.com/CWade3051/Py/blob/master/charCreate.py
 
-Edits by Kelroy Brown - KelroyBrown.com - February 2016
+Edits by [Kelroy Brown] (http://KelroyBrown.com) - February 2016
 
 Learning and Experimenting with Python by doing fun mini projects.
 
