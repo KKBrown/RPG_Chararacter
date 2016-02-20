@@ -1,4 +1,4 @@
-# RPG_Chararacter
+# RPG_Chararacter - Version 1
 Character Creator program for a role-playing game written in python
 
 # Based on and expanded from Charles Wade's original code from August of 2013
