@@ -29,4 +29,17 @@ Edits by [Kelroy Brown] (http://KelroyBrown.com) - February 2016
       - Ranger + 5 Speed
       - Monk + 5 Evasion
       
+3. Elemental Affinity chosen at character creation (Earth, Fire Water, Wind). No special function right now but can be incorporated in a feature later
+
+4. Better text formating for loaded characters. Now display Number, Name and Class
+
+5. Better text formating for listed characters. Now display Name, Class and Element
+
+
+## Challenges
+
+Understanding how dictionaries differ from arrays and being able to call/display individual values saved in a dictionary withing a dictonary proved challenging but the following link assisted in understanding how it works in Python
+- http://stackoverflow.com/questions/15785719/how-to-print-a-dictionary-line-by-line-in-python
+
+
     
