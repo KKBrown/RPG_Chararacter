@@ -1,4 +1,4 @@
-Continuation from version 1 - (https://github.com/KelroyBrown/RPG_Chararacter/blob/master/version_1_Notes.txt)
+Continuation from [version 1] (https://github.com/KelroyBrown/RPG_Chararacter/blob/master/version_1_Notes.txt)
 
 Expanded Version 1 of RPG_Character
 
