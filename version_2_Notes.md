@@ -1,8 +1,15 @@
+# RPG_Chararacter - Version 2
+Character Creator program for a role-playing game written in python
 Continuation from [version 1] (https://github.com/KelroyBrown/RPG_Chararacter/blob/master/version_1_Notes.txt)
 
-Expanded Version 1 of RPG_Character
+## Based on and expanded from Charles Wade's original code from August of 2013 [Source] (https://github.com/CWade3051/Py/blob/master/charCreate.py)
 
-Changelog
+Edits by [Kelroy Brown] (http://KelroyBrown.com) - February 2016
+
+###Learning and Experimenting with Python by doing fun mini projects.
+
+
+## Changelog
 
 1. Calculation for secondary stats now take place in separate fuctions
       - Health
