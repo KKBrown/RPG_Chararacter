@@ -1,4 +1,4 @@
-# RPG_Chararacter
+# RPG_Chararacter - Version 1
 Character Creator program for a role-playing game written in python
 
 
@@ -16,4 +16,4 @@ to 30) to spend on seven primary attributes: Vitality, Strength, Dexterity, Inte
 From these seven primary attributes; eight secondary attributes will be generated using various formula. These
 secondary attributes are Health, Evasion, Physical Defence, Magic Defence, Physical Attack, Magic Attack, Speed and
 Mana. The player should be able to spend points from the pool on any primary attribute and should also be able to take
-points from a primary attribute and put them back into the pool. The secondary attributes are automatically generated
+points from a primary attribute and put them back into the pool. The secondary attributes are automatically generated.
