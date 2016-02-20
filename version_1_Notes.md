@@ -16,4 +16,3 @@ From these seven primary attributes; eight secondary attributes will be generate
 secondary attributes are Health, Evasion, Physical Defence, Magic Defence, Physical Attack, Magic Attack, Speed and
 Mana. The player should be able to spend points from the pool on any primary attribute and should also be able to take
 points from a primary attribute and put them back into the pool. The secondary attributes are automatically generated
-
