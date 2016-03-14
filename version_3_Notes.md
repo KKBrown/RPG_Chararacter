@@ -22,9 +22,11 @@ Edits by [Kelroy Brown] (http://KelroyBrown.com) - March 2016
       
 3. Created objects can be loaded deom pickled file as individual objects
     
-4. "Sace Akk CHaracter" option now redundant and removed. All characters are saved upon creation
+4. "Save All CHaracter" option now redundant and removed. All characters are saved upon creation
 
-5. Updated text for some menu options and feedback to user
+5. using os library to handle checking for file in directory 
+
+6. Updated text for some menu options and feedback to user
 
 
 ## Challenges
