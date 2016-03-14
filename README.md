@@ -15,4 +15,5 @@ Each new version expands on the previous as I experiment with and incorporate ne
     - [Notes] (https://github.com/KelroyBrown/RPG_Chararacter/blob/master/version_1_Notes.md) & [Code] (https://github.com/KelroyBrown/RPG_Chararacter/blob/master/charCreatorV1.py)
 - Version 2
     - [Notes] (https://github.com/KelroyBrown/RPG_Chararacter/blob/master/version_2_Notes.md)  and [Code] (https://github.com/KelroyBrown/RPG_Chararacter/blob/master/charCreatorV2.py)
-- Version 3 - WIP
+- Version 3 
+    - [Notes] (https://github.com/KelroyBrown/RPG_Chararacter/blob/master/version_3_Notes.md)  and [Code] (https://github.com/KelroyBrown/RPG_Chararacter/blob/master/charCreatorV3.py)   
